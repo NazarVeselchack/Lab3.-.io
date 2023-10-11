@@ -27,7 +27,7 @@ int main() {
 
                     break;
 
-    case 4:     result = a / b;
+    case 4:     result = (double) a / b;
 
                     break;
 
